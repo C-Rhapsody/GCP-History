@@ -6,5 +6,4 @@ GCP 사용기록
     * 부팅디스크 : Ubuntu 18.04 LTS, 1024GB
     * Down : Transmission(Docker, linuxserver/transmission)
     * Up : Rclone v1.45
-    
-  
+    - 예상과금 : 월 $69.70
